@@ -1,0 +1,12 @@
+.container-sing-in {
+  min-height: calc(100vh - 80px);
+  width: 100vw;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container-sing-in h1 {
+  margin-bottom: 50px;
+}
